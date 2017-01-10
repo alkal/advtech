@@ -1,0 +1,13 @@
+wp-admin/*
+wp-includes/*
+wp-content/*
+!wp-content/themes/
+wp-content/themes/*
+#!wp-content/themes/twentysixteen/
+/*.php
+!/wp-config.php
+/*.html
+/*.txt
+/.buildpath
+/.project
+/.settings/
