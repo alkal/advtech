@@ -11,3 +11,4 @@ wp-content/themes/*
 /.buildpath
 /.project
 /.settings/
+/*.zip
