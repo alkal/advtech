@@ -5,4 +5,4 @@ Version: 1.0
 Template: advtech
 */
 
-body{background-color:red;}
+#Wrapper, #Content {background-color: #fff!important;}
