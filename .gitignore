@@ -6,7 +6,6 @@ wp-content/themes/*
 !wp-content/themes/advtech/
 !wp-content/themes/advtechTheme/
 /*.php
-!/wp-config.php
 /*.html
 /*.txt
 /.buildpath
