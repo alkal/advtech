@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @CHARSET "UTF-8";
 /*
 Theme Name: Advanced Technologies Child
@@ -14,3 +15,35 @@ p{line-height:24px;}
 #pageHeader .subtext{font-size:18px;margin-bottom: 26px;}
 #pageHeader .maintext{font-size:38px;margin-bottom: 46px;}
 #pageHeader .maintext br{line-height: 50px;}
+=======
+@CHARSET "UTF-8";
+/*
+Theme Name: Advanced Technologies Child
+Version: 1.0
+Template: advtech
+*/
+
+p{line-height:24px;}
+#Wrapper, #Content {background-color: #fff!important;}
+
+#advCat{margin:60px 0 120px;}
+#advCat .one-third>.mcb-wrap-inner{float:left;padding:10px 20px;}
+#advCat .one-third>.mcb-wrap-inner{box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);background-color: #fff;transition: all 0.3s ease-in-out 0s;}
+#advCat .one-third.itProd>.mcb-wrap-inner{border-top:3px solid #666;}
+#advCat .one-third.qProd>.mcb-wrap-inner{border-top:3px solid #a55959;}
+#advCat .one-third.chProd>.mcb-wrap-inner{border-top:3px solid #5e6e9a;}
+#advCat .one-third:hover>.mcb-wrap-inner{box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);}
+#advCat .one-third>.mcb-wrap-inner>.hTitle{margin:10px 0!important;}
+.testimonials_slider .slider_images{display:none!important;}
+.testimonials_slider .testimonials_slider_ul.slick-slider{margin-top: 80px!important;}
+#pageHeader{margin-bottom:100px;}
+#pageHeader h1{display:none;}
+#pageHeader.itProducts{background-color: #e01e26;background-image: linear-gradient(to right, #e01e26 0%, #7b0207 100%);color:#fff;}
+#pageHeader.itProducts .column.one{margin-bottom:0;}
+#pageHeader .subtext{font-size:18px;margin-bottom: 26px;}
+#pageHeader .maintext{font-size:38px;margin-bottom: 46px;}
+#pageHeader .maintext br{line-height: 50px;}
+
+
+#Footer .widgets_wrapper{display:none;}
+>>>>>>> 78236b7df5e039d0d74edbd85ae682243c707114
