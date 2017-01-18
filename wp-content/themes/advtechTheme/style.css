@@ -5,4 +5,12 @@ Version: 1.0
 Template: advtech
 */
 
-body{background-color:red;}
+p{line-height:24px;}
+#Wrapper, #Content {background-color: #fff!important;}
+#pageHeader{margin-bottom:100px;}
+#pageHeader h1{display:none;}
+#pageHeader.itProducts{background-color: #e01e26;background-image: linear-gradient(to right, #e01e26 0%, #7b0207 100%);color:#fff;}
+#pageHeader.itProducts .column.one{margin-bottom:0;}
+#pageHeader .subtext{font-size:18px;margin-bottom: 26px;}
+#pageHeader .maintext{font-size:38px;margin-bottom: 46px;}
+#pageHeader .maintext br{line-height: 50px;}
