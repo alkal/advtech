@@ -38,4 +38,24 @@ p{line-height:24px;}
 .two-third ul.list_check li{float:left;width:auto;}
 .two-third ul.list_check li:after{background:0 none transparent;}
 
+.column_tabs .ui-tabs .ui-tabs-nav li a{font-size:16px!important;font-weight:bold!important;padding:14px 25px!important;color:#888;}
+.column_tabs .ui-tabs .ui-tabs-nav li.ui-state-active a{color:#333;}
+.column_tabs .ui-tabs .ui-tabs-nav li.ui-state-active a:after{background:#333;}
+
+#itPartners h2{text-transform: uppercase;font-size: 22px;color: #888;}
+#itPartners p{font-size: 18px;color: #333;line-height: 26px;}
+#itPartners .column_slider{margin-top:30px;}
+/*<h2>Our partners</h2>
+<p>No matter how complex your business questions, we have the capabilities and experience to deliver the answers you need to move forward.</p>*/
+
+#q-message .section_wrapper{padding:40px 0;}
+#q-message .section_wrapper .column_fancy_heading .inside{font-size:24px;padding:15px 0 50px;}
+#q-message .section_wrapper .one-fourth.column{margin-bottom:0;}
+#q-message .section_wrapper .one-fourth h3{font-size:42px;color:#8f002f;}
+#q-message .section_wrapper .one-fourth p{color: #333;font-size: 20px;line-height: 26px;}
+#q-categories .fancy_heading .title{margin-bottom:32px;}
+#q-categories .column.one h3{font-size:21px;margin-bottom:12px;}
+
+.style-simple .ui-tabs .ui-tabs-panel {background: none;font-size: 14px;padding: 20px 0;line-height: 24px;}
+
 #Footer .widgets_wrapper{display:none;}
